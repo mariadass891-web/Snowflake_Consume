@@ -12,3 +12,9 @@ INSERT INTO employees (employee_id, first_name, last_name, salary, hire_date, de
 INSERT INTO employees (employee_id, first_name, last_name, salary, hire_date, department) VALUES (3, 'Bob', 'Johnson', 55000, '2024-03-10', 'IT');
 INSERT INTO employees (employee_id, first_name, last_name, salary, hire_date, department) VALUES (4, 'Alice', 'Williams', 65000, '2024-01-20', 'Finance');
 INSERT INTO employees (employee_id, first_name, last_name, salary, hire_date, department) VALUES (5, 'Charlie', 'Brown', 52000, '2024-02-15', 'Marketing');
+file.sql
+file1.sql
+file2.sql
+file3.sql
+file4.sql
+New
